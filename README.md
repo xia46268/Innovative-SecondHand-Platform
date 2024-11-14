@@ -71,7 +71,7 @@ Below are the results from our Monte Carlo simulations:
 
 ## Figures 图片
 ### 1. Final Bid Process 最终出价流程
-![Final Bid Process](./images/1.png)
+![Final Bid Process](./images/1.jpg)
 
 ### 2. Transaction Flow Chart 交易流程图
 ![Transaction Flow](./images/2.png)
