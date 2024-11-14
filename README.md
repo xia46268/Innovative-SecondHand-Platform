@@ -76,9 +76,14 @@ Below are the results from our Monte Carlo simulations:
 ### 2. Transaction Flow Chart 交易流程图
 ![Transaction Flow](./images/2.jpg)
 
-### 3. Simulation Results for Different Strategies 不同策略的模拟结果
-![Simulation Results](./images/3.png)
+### 3. Graphical Illustration of Sellers’ Pricing Strategies 卖方定价策略图解
+![Sellers’ Pricing Strategies](./images/3.png)
 
+
+### 4. Simulation Results for Different Strategies 不同策略的模拟结果
+![Simulation Results of aggressive pricing](./images/4.png)
+![Simulation Results of neutral pricing](./images/5.png)
+![Simulation Results of conservative pricing](./images/6.png)
 ---
 
 ## Conclusion 结论
