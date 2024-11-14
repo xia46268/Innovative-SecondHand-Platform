@@ -81,9 +81,9 @@ Below are the results from our Monte Carlo simulations:
 
 
 ### 4. Simulation Results for Different Strategies 不同策略的模拟结果
-![Simulation Results of aggressive pricing](./images/4.png)
-![Simulation Results of neutral pricing](./images/5.png)
-![Simulation Results of conservative pricing](./images/6.png)
+![Simulation Results of aggressive pricing](./images/4.jpg)
+![Simulation Results of neutral pricing](./images/5.jpg)
+![Simulation Results of conservative pricing](./images/6.jpg)
 ---
 
 ## Conclusion 结论
